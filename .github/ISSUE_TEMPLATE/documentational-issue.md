@@ -10,7 +10,7 @@ assignees: ''
 <!--
 If you don't follow the issue template, your issue may be closed.
 Please note this is an issue tracker, not a support forum.
-For general questions, please use StackOverflow or Slack.
+For general questions, please use StackOverflow.
 -->
 
 ## Issue Description
@@ -44,5 +44,3 @@ Add any other context or screenshots about the issue here.
 - [ ] Yes, I have the time but I don't know how to start, I would need guidance.
 - [ ] No, I don't have the time, although I believe I could do it if I had the time...
 - [ ] No, I don't have the time and I wouldn't even know how to start.
-
-
